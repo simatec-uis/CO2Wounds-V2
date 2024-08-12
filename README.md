@@ -1,8 +1,8 @@
-## CO2Wounds-V2 Dataset
+# CO2Wounds-V2 Dataset
 
-# Extended Chronic Wounds Dataset From Leprosy Patients
+## Extended Chronic Wounds Dataset From Leprosy Patients
 
-# News
+## News
 
 **April 1, 2024**
 
@@ -13,7 +13,7 @@ Our preprint is available at Arxiv
 - Our paper have been accepted to [ICIP 2024](https://2024.ieeeicip.org/)!
 
 
-# Dataset Description
+## Dataset Description
 
 
 Download the CO2Wounds-V2 dataset free, easy, and fast [here](https://ieee-dataport.org/open-access/co2wounds-v2-extended-chronic-wounds-dataset-leprosy-patients-segmentation-and-detection).
@@ -22,15 +22,15 @@ Download the CO2Wounds-V2 dataset free, easy, and fast [here](https://ieee-datap
 - Curation
 - Annotation process
 
-# Benchmark
+## Benchmark
 
-# Getting Started
+## Getting Started
 
-# Results and Evaluation
+## Results and Evaluation
 
-# Contributing
+## Contributing
 
-# Citations
+## Citations
 
 If you use this dataset/code in your research, please cite:
 
@@ -45,15 +45,15 @@ If you use this dataset/code in your research, please cite:
 }
 ```
 
-# License
+## License
 
 The authors make data publicly available according to open data standards and license datasets under the Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) license.
 
-# Contact
+## Contact
 
 - Karen Sanchez
 
-Linkedin: [https://www.linkedin.com/in/edwin-vargas-80ab7873/](https://www.linkedin.com/in/karenyanethsanchez/)
+Linkedin: [https://www.linkedin.com/in/karenyanethsanchez/](https://www.linkedin.com/in/karenyanethsanchez/)
 Twitter: [@karensanchez119](https://x.com/karensanchez119)
 Email: karen.sanchez@kaust.edu.sa
 
