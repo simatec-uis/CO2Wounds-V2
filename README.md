@@ -26,11 +26,22 @@ Download the CO2Wounds-V2 dataset free, easy, and fast [here](https://ieee-datap
 
 ## Getting Started
 
+Clone our repo to your local machine using the following command:
+
+**Prerequisites**
+
+Create a new conda environment using the provided environment.yml file.
+
+
 ## Results and Evaluation
+
+
 
 ## Contributing
 
-## Citations
+
+
+## How to cite
 
 If you use this dataset/code in your research, please cite:
 
