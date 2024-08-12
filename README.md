@@ -2,7 +2,7 @@
 
 # Extended Chronic Wounds Dataset From Leprosy Patients
 
-# News and Updates 🗞️
+# News
 
 **April 1, 2024**
 
@@ -43,8 +43,18 @@ If you use this dataset/code in your research, please cite:
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/yourusername/Triplet-Detection-Laparoscopy}},
 }
+```
 
 # License
 
 The authors make data publicly available according to open data standards and license datasets under the Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) license.
+
+# Contact
+
+- Karen Sanchez
+
+Linkedin: [https://www.linkedin.com/in/edwin-vargas-80ab7873/](https://www.linkedin.com/in/karenyanethsanchez/)
+Twitter: [@karensanchez119](https://x.com/karensanchez119)
+Email: karen.sanchez@kaust.edu.sa
+
 
