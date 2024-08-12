@@ -1,6 +1,8 @@
-# CO2Wounds-V2 Dataset
-
-## Extended Chronic Wounds Dataset From Leprosy Patients
+<div align="center">
+  <img src="https://your-image-url.com/logo.png" alt="Logo" width="100"/>
+  <h1>CO2Wounds-V2 Dataset</h1>
+  <h2>Extended Chronic Wounds Dataset From Leprosy Patients</h2>
+</div>
 
 ## News
 
