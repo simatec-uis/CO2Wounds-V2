@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://github.com/simatec-uis/CO2Wounds-V2/blob/main/figures/logo.png" alt="Logo" width="200"/>
+  <img src="https://github.com/simatec-uis/CO2Wounds-V2/blob/main/figures/logo.png" alt="Logo" width="160"/>
   <h1>CO2Wounds-V2</h1>
   <h2>Extended Chronic Wounds Dataset From Leprosy Patients</h2>
 </div>
 
 ## News
 
-**April 1, 2024**
+**August, 2024**
 
 Our preprint is available at Arxiv
 
 **February 27, 2024**
 
-- Our paper have been accepted to [ICIP 2024](https://2024.ieeeicip.org/)!
+- Our paper has been accepted to [ICIP 2024](https://2024.ieeeicip.org/)!
 
 
 ## Dataset Description
