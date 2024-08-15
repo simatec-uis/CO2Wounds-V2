@@ -2,7 +2,11 @@
   <img src="https://github.com/simatec-uis/CO2Wounds-V2/blob/main/figures/logo.png" alt="Logo" width="160"/>
   <h1>CO2Wounds-V2</h1>
   <h2>Extended Chronic Wounds Dataset From Leprosy Patients</h2>
-  <h3>[![Paper](https://img.shields.io/badge/Paper-pdf-blue)](https://www.linkedin.com/in/karenyanethsanchez/)</h3>
+  <h3>
+    <a href="https://www.linkedin.com/in/karenyanethsanchez/">
+      <img src="https://img.shields.io/badge/Paper-pdf-blue" alt="Paper"/>
+    </a>
+  </h3>
 </div>
 
 ## News
