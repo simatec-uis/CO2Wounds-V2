@@ -9,6 +9,8 @@
   </h3>
 </div>
 
+This repository provides the benchmark code and checkpoints to evaluate our CO2Wounds-V2 dataset, which contains 764 RGB images of chronic wounds acquired from 96 leprosy patients, with wound semantic segmentation annotations provided in COCO and image formats. This dataset represents the largest collection currently available for chronic wounds caused by leprosy.
+
 ## News
 
 **August, 2024**
