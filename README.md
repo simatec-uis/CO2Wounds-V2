@@ -54,13 +54,11 @@ Create a new conda environment using the provided environment.yml file.
 If you use this dataset/code in your research, please cite:
 
 ```bibtext
-@misc{your_last_name2024triplet,
-  author = {Your First Name Last Name and Co-author First Name Last Name},
-  title = {Triplet Detection in Laparoscopy Videos},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/yourusername/Triplet-Detection-Laparoscopy}},
+@article{sanchez2024co2wounds,
+  title={CO2Wounds-V2: Extended Chronic Wounds Dataset From Leprosy Patients},
+  author={Sanchez, Karen and Hinojosa, Carlos and Mieles, Olinto and Zhao, Chen and Ghanem, Bernard and Arguello, Henry},
+  journal={arXiv preprint arXiv:2408.10827},
+  year={2024}
 }
 ```
 
