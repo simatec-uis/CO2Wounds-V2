@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/simatec-uis/CO2Wounds-V2/blob/main/figures/logo.png" alt="Logo" width="160"/>
   <h1>CO2Wounds-V2</h1>
-  <h2 style="font-size: 16px;">Extended Chronic Wounds Dataset From Leprosy Patients</h2>
+  <h2 style="font-size: 14px;">Extended Chronic Wounds Dataset From Leprosy Patients</h2>
   <h3>
     <a href="https://arxiv.org/pdf/2408.10827">
       <img src="https://img.shields.io/badge/Paper-pdf-blue" alt="Paper"/>
