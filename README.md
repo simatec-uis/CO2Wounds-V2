@@ -74,10 +74,4 @@ Linkedin: [https://www.linkedin.com/in/karenyanethsanchez/](https://www.linkedin
 Twitter: [@karensanchez119](https://x.com/karensanchez119)
 Email: karen.sanchez@kaust.edu.sa
 
-- Carlos Hinojosa
-
-Linkedin: [https://www.linkedin.com/in/phdcarloshinojosa/](https://www.linkedin.com/in/phdcarloshinojosa/)
-Twitter: [@CarlosH_93](https://x.com/CarlosH_93)
-Email: carlos.hinojosa@kaust.edu.sa
-
 
