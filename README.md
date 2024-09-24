@@ -15,10 +15,6 @@ This paper has been accepted at [ICIP 2024](https://2024.ieeeicip.org/). This re
 
 Download the CO2Wounds-V2 dataset free, easy, and fast [here](https://ieee-dataport.org/open-access/co2wounds-v2-extended-chronic-wounds-dataset-leprosy-patients-segmentation-and-detection/).
 
-- Collection
-- Curation
-- Annotation process
-
 ## Getting Started
 
 Clone our repo to your local machine using the following command:
@@ -73,5 +69,4 @@ The authors make data publicly available according to open data standards and li
 Linkedin: [https://www.linkedin.com/in/karenyanethsanchez/](https://www.linkedin.com/in/karenyanethsanchez/)
 Twitter: [@karensanchez119](https://x.com/karensanchez119)
 Email: karen.sanchez@kaust.edu.sa
-
 
