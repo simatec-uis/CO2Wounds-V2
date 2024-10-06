@@ -32,9 +32,6 @@ Download the CO2Wounds-V2 dataset free, easy, and fast [here](https://ieee-datap
 | U-Net          | SegFormer    | 70.13 | 79.26 | 98.59 | 84.70 | 81.99 | [Download](https://osf.io/edawc) |
 | FPN            | SegFormer    | 69.90 | 79.36 | 98.56 | 82.02 | 84.35 | Download |
 
-## Contributing
-
-
 
 ## How to cite
 
