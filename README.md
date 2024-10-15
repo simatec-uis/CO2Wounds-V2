@@ -21,7 +21,7 @@ The main code for this project is available in the **main.py** file within this 
 
 We have utilized the Python library [segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) for this project, which provides a wide range of state-of-the-art segmentation models. Please refer to the linked repository for detailed installation instructions and additional information on the library.
 
-The **explore_dataset.py** script included in this repository is designed to visualize the _CO2Wounds-V2_ dataset, overlaying the masks and bounding boxes as in Figure 1 below.
+The **explore_dataset.py** script included in this repository is designed to visualize the _CO2Wounds-V2_ dataset, overlaying the masks and bounding boxes as in Figure below.
 
 ## Results and Evaluation
 
