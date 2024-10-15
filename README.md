@@ -15,6 +15,12 @@ This paper has been accepted at [ICIP 2024](https://2024.ieeeicip.org/). This re
 
 Download the CO2Wounds-V2 dataset free, easy, and fast [here](https://ieee-dataport.org/open-access/co2wounds-v2-extended-chronic-wounds-dataset-leprosy-patients-segmentation-and-detection/).
 
+## Code and Library Information
+
+The main code for this project is available in the main.py file within this repository. This file contains the core implementation necessary to reproduce the results presented in our work (see Table in the following section).
+
+We have utilized the Python library [segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) for this project, which provides a wide range of state-of-the-art segmentation models. Please refer to the linked repository for detailed installation instructions and additional information on the library.
+
 ## Results and Evaluation
 
 | Architectures  | Encoder      | mIoU(%) | F1(%) | Accuracy(%) | Precision(%)  | Recall(%) | Checkpoints |
