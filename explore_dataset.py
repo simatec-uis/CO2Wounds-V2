@@ -12,7 +12,6 @@ from PIL import ImageDraw
 from PIL import ExifTags
 from PIL import ImageColor
 
-
 # Load the dataset json
 class CocoDataset():
     def __init__(self, annotation_path, image_dir):
@@ -309,7 +308,6 @@ class CocoDataset():
 
         image_with_overlay.save(save_path, "PNG")
         print(f"Image with annotations saved to {save_path}")
-
 
 if __name__ == "__main__":
     annotation_path = './data/CO2wounds/annotations/merged_annotations.json' #'./sample_annotations.json'
