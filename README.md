@@ -41,6 +41,8 @@ The **explore_dataset.py** script included in this repository is designed to vis
 | FPN            | SegFormer    | 69.90 | 79.36 | 98.56 | 82.02 | 84.35 | Download |
 
 
+![Figure 1: Visualization of CO2Wounds-V2 Dataset](figures/dataset_co2wounds.png)
+
 ## How to cite
 
 If you use this dataset/code in your research, please cite:
