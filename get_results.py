@@ -1,7 +1,6 @@
 import os
 os.environ['CUDA_VISIBLE_DEVICES'] = '1'
 
-
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -14,8 +13,6 @@ import segmentation_models_pytorch as smp
 from segmentation_models_pytorch.utils.train import ValidEpoch
 import segmentation_models_pytorch.utils
 from torch.optim.lr_scheduler import StepLR
-
-
 
 # helper function for data visualization
 def visualize(fig_name=None, result=False, **images):
