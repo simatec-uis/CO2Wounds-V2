@@ -23,6 +23,8 @@ We have utilized the Python library [segmentation_models.pytorch](https://github
 
 The **explore_dataset.py** script included in this repository is designed to visualize the _CO2Wounds-V2_ dataset, overlaying the masks and bounding boxes as in Figure below.
 
+If you prefer to download the pre-trained checkpoints for each architecture and encoder directly, rather than training the models yourself using the provided scripts, you can find the download links in the last column of the table below.
+
 ## Results and Evaluation
 
 | Architectures  | Encoder      | mIoU(%) | F1(%) | Accuracy(%) | Precision(%)  | Recall(%) | Checkpoints |
@@ -61,8 +63,6 @@ If you use this dataset/code in your research, please cite:
 The authors make data publicly available according to open data standards and license datasets under the Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) license.
 
 ## Contact
-
-- Karen Sanchez
 
 Linkedin: [https://www.linkedin.com/in/karenyanethsanchez/](https://www.linkedin.com/in/karenyanethsanchez/)
 Twitter: [@karensanchez119](https://x.com/karensanchez119)
