@@ -3,13 +3,13 @@
   <h1>CO2Wounds-V2</h1>
   <h2 style="font-size: 14px;">Extended Chronic Wounds Dataset From Leprosy Patients</h2>
   <h3>
-    <a href="https://arxiv.org/pdf/2408.10827">
+    <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10647641">
       <img src="https://img.shields.io/badge/Paper-pdf-blue" alt="Paper"/>
     </a>
   </h3>
 </div>
 
-This paper has been accepted at [ICIP 2024](https://2024.ieeeicip.org/). This repository provides the benchmark code and checkpoints to evaluate our CO2Wounds-V2 dataset, which contains 764 RGB images of chronic wounds acquired from 96 leprosy patients, with wound semantic segmentation annotations provided in COCO and image formats.
+This [paper](https://ieeexplore.ieee.org/abstract/document/10647641) has been accepted at [ICIP 2024](https://2024.ieeeicip.org/). This repository provides the benchmark code and checkpoints to evaluate our CO2Wounds-V2 dataset, which contains 764 RGB images of chronic wounds acquired from 96 leprosy patients, with wound semantic segmentation annotations provided in COCO and image formats.
 
 ## Dataset Description
 
