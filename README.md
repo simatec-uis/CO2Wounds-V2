@@ -50,11 +50,23 @@ If you prefer to download the pre-trained checkpoints for each architecture and 
 If you use this dataset/code in your research, please cite:
 
 ```bibtext
-@article{sanchez2024co2wounds,
+@inproceedings{sanchez2024co2wounds,
   title={CO2Wounds-V2: Extended Chronic Wounds Dataset From Leprosy Patients},
   author={Sanchez, Karen and Hinojosa, Carlos and Mieles, Olinto and Zhao, Chen and Ghanem, Bernard and Arguello, Henry},
-  journal={arXiv preprint arXiv:2408.10827},
-  year={2024}
+  booktitle={2024 IEEE International Conference on Image Processing (ICIP)},
+  pages={69--75},
+  year={2024},
+  organization={IEEE}
+}
+
+@article{monroy2023automated,
+  title={Automated chronic wounds medical assessment and tracking framework based on deep learning},
+  author={Monroy, Brayan and Sanchez, Karen and Arguello, Paula and Estupi{\~n}{\'a}n, Juan and Bacca, Jorge and Correa, Claudia V and Valencia, Laura and Castillo, Juan C and Mieles, Olinto and Arguello, Henry and others},
+  journal={Computers in Biology and Medicine},
+  volume={165},
+  pages={107335},
+  year={2023},
+  publisher={Elsevier}
 }
 ```
 
