@@ -45,7 +45,7 @@ If you prefer to download the pre-trained checkpoints for each architecture and 
 
 ![Figure 1: Visualization of CO2Wounds-V2 Dataset](figures/dataset_co2wounds.png)
 
-## How to cite
+## :warning: Data Citation Required
 
 If you use this dataset/code in your research, please cite:
 
