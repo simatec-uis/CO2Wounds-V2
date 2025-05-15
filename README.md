@@ -13,7 +13,7 @@ This [paper](https://ieeexplore.ieee.org/abstract/document/10647641) has been ac
 
 ## Dataset Description
 
-Download the CO2Wounds-V2 dataset free, easy, and fast [here](https://ieee-dataport.org/open-access/co2wounds-v2-extended-chronic-wounds-dataset-leprosy-patients-segmentation-and-detection/).
+Download the CO2Wounds-V2 dataset free, easy, and fast [here](https://ieee-dataport.org/open-access/co2wounds-v2-extended-chronic-wounds-dataset-leprosy-patients-segmentation-and).
 
 ## Code and Library Information
 
